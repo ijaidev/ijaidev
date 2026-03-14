@@ -3,8 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">, I'm Jaidev</h1>
 <h3 align="center">A full stack developer. Trying to solve problems with code.</h3>
 
-<p align="left"> <a href="https://x.com/jaidev_me" target="blank"><img src="https://img.shields.io/twitter/follow/jaidev_me?logo=twitter&style=for-the-badge" alt="jaidev_me" /></a> </p>
-
 # 💫 About Me:
 🌱 I’m currently learning **DSA | System Design**<br><br>👨‍💻 All of my projects are available at [jaidev.me](jaidev.me)<br><br>📫 How to reach me **me@jaidev.me**<br><br>⚡ Fun fact **I think I should learn everything**
 
