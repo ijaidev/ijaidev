@@ -4,7 +4,7 @@
 <h3 align="center">A full stack developer. Trying to solve problems with code.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning **DSA | System Design**<br><br>👨‍💻 All of my projects are available at [jaidev.me](jaidev.me)<br><br>📫 How to reach me **me@jaidev.me**<br><br>⚡ Fun fact **I think I should learn everything**
+🌱 I’m currently learning **DSA | System Design**<br><br>👨‍💻 All of my projects are available at [jaidev.me](jaidev.me)<br><br>📫 How to reach me **hi@jaidev.me**<br><br>⚡ Fun fact **I think I should learn everything**
 
 
 ## 🌐 Socials:
