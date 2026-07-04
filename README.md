@@ -12,7 +12,8 @@ I use Typescript and GO mostly. Off-course frameworks and libs like React/Nextjs
 - **[Adlyst](https://adlyst.app/)**: The marketplace where advertisers discover premium ad spots and creators monetize their audience.
 
 ## Say Hii:
-- Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[hi@jaidev.me](mailto:hi@jaidev.me)
+- Email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[hi@jaidev.me](mailto:hi@jaidev.me)
+- X(Twitter): [hijaidev](https://x.com/hijaidev)
 - LinkedIn: &nbsp;&nbsp;[ijaidev](https://www.linkedin.com/in/ijaidev)
 - Telegram: &nbsp;[hijaidev](https://t.me/hijaidev)
 
