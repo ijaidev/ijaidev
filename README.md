@@ -13,7 +13,9 @@ I enjoy figuring things out, making the machine work with code and farming code 
   - Wrote e2e tests to test the new functionality end-to-end.
   - Integrated e2e tests in CI to make future development safe.
   - Added multiple examples to the catalogue and a base image for hyperlight to run Unikraft unikernels faster.
+  - Reviewed some PRs.
   - [Click to see detailed work](https://github.com/unikraft/gsoc/blob/staging/gsoc-2026/work-product/Jaidev-Singh-Add-KraftKit-Support-for-Hyperlight/Jaidev-Singh-Add-KraftKit-Support-for-Hyperlight.md)
+  - Worked with some great folks. 
  
 - Open Source Contributor at [Unikraft/Kraftkit](https://github.com/unikraft/kraftkit)
   - Added support for Kraftfile schema 0.7
