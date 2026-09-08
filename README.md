@@ -35,6 +35,9 @@ I enjoy figuring things out, making the machine work with code and farming code 
 - Sold digital products via Meta Ads
   - Sold digital products like PDFs and template collections on own WordPress website.
   - Marketed using Meta Ads.
+ 
+## Blogs
+- **[Add Hyperlight Platform in KraftKit, GSoC'2026](https://unikraft.org/blog/2026-06-19-unikraft-gsoc-hyperlight-platform)**
 
 ## Some of my projects
 - **[Postcribe](https://github.com/ijaidev/postcribe)**: AI-powered social media platform for generating, scheduling, and publishing posts across X and LinkedIn.
