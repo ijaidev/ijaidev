@@ -17,7 +17,7 @@ I enjoy figuring things out, making the machine work with code and farming code 
   - [Click to see detailed work](https://github.com/unikraft/gsoc/blob/staging/gsoc-2026/work-product/Jaidev-Singh-Add-KraftKit-Support-for-Hyperlight/Jaidev-Singh-Add-KraftKit-Support-for-Hyperlight.md)
   - Worked with some great folks. 
  
-- Open Source Contributor at [Unikraft/Kraftkit](https://github.com/unikraft/kraftkit)
+- Open Source Contributor at [Unikraft/Kraftkit](https://github.com/unikraft/kraftkit) • 27 PRs Merged
   - Added support for Kraftfile schema 0.7
   - Implemented `kraft set`/`unset` with `--force` and persistent config writes ([#2638](https://github.com/unikraft/kraftkit/pull/2638), [#2907](https://github.com/unikraft/kraftkit/pull/2907))
   - Added `-k|--kernel` to save the built unikernel binary ([#2616](https://github.com/unikraft/kraftkit/pull/2616))
