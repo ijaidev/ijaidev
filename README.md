@@ -24,6 +24,10 @@ I enjoy figuring things out, making the machine work with code and farming code 
   - Added riscv64 QEMU target support ([#2900](https://github.com/unikraft/kraftkit/pull/2900))
   - Fixed CLI path handling: relative workdirs, sudo config path, rootfs/`--outdir` ([#2628](https://github.com/unikraft/kraftkit/pull/2628), [#2630](https://github.com/unikraft/kraftkit/pull/2630), [#2851](https://github.com/unikraft/kraftkit/pull/2851))
  
+- Open Source Contributor at [e2e](https://github.com/e2e-inc/e2e) • 2 PRs Merged
+  - Added HTTP method matching to `route` and `waitForResponse`
+  - Fixed the examples to install from the 0.23.0 runner and engine releases
+ 
 - Freelance Developer
   - Delivered multiple freelance projects using multiple technologies like WordPress, Shopify and Next.js.
  
